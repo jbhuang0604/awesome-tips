@@ -4,7 +4,7 @@
 
 Sharing one idea I found useful for paper writing:
 
-Do NOT ask people to solve correspondence problems. 
+**Do NOT ask people to solve correspondence problems.**
 
 Some Dos and Don'ts examples below:
 
