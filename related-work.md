@@ -1,5 +1,7 @@
 # Writing Related Work
 
+[[Link to the original tweet](https://twitter.com/jbhuang0604/status/1417117742302433286)]
+
 I enjoy reading/writing the related work section of a paper. It helps organize prior research and put the contributions of the work in proper context. 
 
 But HOW? Check the thread!
