@@ -3,6 +3,6 @@
 A curated list of tips on various topics. 
 
 - [How to make steady research progress?](steady-progress.md)
-- [How to work with my mentors effectively?](work-with-mentors.md)
+- [How to work with my mentors effectively?](main/working-with-mentor.md)
 - [Paper writing](paper-writing.md)
 - [Writing cold emails](cold-emails.md)
