@@ -2,6 +2,6 @@
 
 A curated list of tips on various topics. 
 
-- [Writing cold emails](cold-emails.md)
-- [Paper writing](paper-writing.md)
 - [How to make steady research progress?](steady-progress.md)
+- [Paper writing](paper-writing.md)
+- [Writing cold emails](cold-emails.md)
