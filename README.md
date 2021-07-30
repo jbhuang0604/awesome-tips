@@ -7,3 +7,6 @@ A curated list of tips on various topics.
 - [How to write good cold emails?](cold-emails.md)
 - [Paper writing](paper-writing.md)
 - [How to write a good related work section?](related-work.md)
+- How to disseminate your research?
+- How to prepare your presentation slides?
+- How to prepare journal response letter?
