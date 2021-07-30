@@ -1,5 +1,6 @@
 # Tips on paper writing 
 
+
 [[Link to the original tweet](https://twitter.com/jbhuang0604/status/1279992087497314305?s=20)]
 
 Sharing one idea I found useful for paper writing:
