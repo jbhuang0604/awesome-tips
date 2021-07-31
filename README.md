@@ -3,7 +3,7 @@
 A curated list of tips on various topics. 
 
 - [How to make steady research progress?](steady-progress.md)
-- [How to work with my mentors effectively?](main/working-with-mentor.md)
+- [How to work with my mentors effectively?](working-with-mentor.md)
 - [How to write good cold emails?](cold-emails.md)
 - [How to write papers that are easy to read?](paper-writing.md)
 - [How to write a good related work section?](related-work.md)
