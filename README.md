@@ -7,6 +7,9 @@ A curated list of tips on various topics.
 - [How to write good cold emails?](cold-emails.md)
 - [How to write papers that are easy to read?](paper-writing.md)
 - [How to write a good related work section?](related-work.md)
-- How to disseminate your research?
-- How to prepare your presentation slides?
-- How to prepare journal response letter?
+- [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
+- [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
+- [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
+- [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
+- [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
