@@ -14,3 +14,4 @@ A curated list of tips on various topics.
 - [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
 - [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
 - [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
+- [How to prepare your Curriculum Vitae](https://twitter.com/jbhuang0604/status/1433651068282540033)
