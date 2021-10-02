@@ -16,3 +16,5 @@ A curated list of tips on various topics.
 - [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
 - [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
 - [How to prepare your Curriculum Vitae](https://twitter.com/jbhuang0604/status/1433651068282540033)
+- [How to cope with paper rejection](https://twitter.com/jbhuang0604/status/1443248831102136333)
+- [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
