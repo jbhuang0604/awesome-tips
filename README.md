@@ -18,3 +18,8 @@ A curated list of tips on various topics.
 - [How to prepare your Curriculum Vitae](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [How to cope with paper rejection](https://twitter.com/jbhuang0604/status/1443248831102136333)
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
+- [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
+- [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
+- [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
+- [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
