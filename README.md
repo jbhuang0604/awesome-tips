@@ -19,8 +19,8 @@ A curated list of tips on various topics.
 ### Communication
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
-- [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
+- [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
@@ -32,3 +32,5 @@ A curated list of tips on various topics.
 ### Network
 - [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
 - [How to write good cold emails?](cold-emails.md)
+- [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
+
