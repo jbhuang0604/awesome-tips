@@ -29,6 +29,7 @@ A curated list of tips on various topics.
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 
 ### Network
 - [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
