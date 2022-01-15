@@ -23,7 +23,7 @@ A curated list of tips on various topics.
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
 
 ### Career
-- [How to prepare your Curriculum Vitae](https://twitter.com/jbhuang0604/status/1433651068282540033)
+- [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
 - [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
