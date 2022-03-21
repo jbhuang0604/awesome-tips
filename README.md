@@ -27,6 +27,7 @@ A curated list of tips on various topics.
 - [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
+- [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
