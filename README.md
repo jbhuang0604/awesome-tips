@@ -21,6 +21,7 @@ A curated list of tips on various topics.
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
 - [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
