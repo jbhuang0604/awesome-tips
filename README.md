@@ -23,19 +23,25 @@ A curated list of tips on various topics.
 - [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
 - [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to organize your talk](https://twitter.com/jbhuang0604/status/1509033327981965313)
+- [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
-- [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
-- [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
 - [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
-- [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
-- [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 
+### Productivity
+- [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+- [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
+
 ### Network
+- [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
 - [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
 - [How to write good cold emails?](cold-emails.md)
 - [How do I get professors to answer my emails?](https://twitter.com/jbhuang0604/status/1441548826645602309)
 
+### Financial
+- [How to save for retirement as a graduate student (in the US)?](https://twitter.com/jbhuang0604/status/1510479669962940416)
