@@ -24,6 +24,7 @@ A curated list of tips on various topics.
 - [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to organize your talk](https://twitter.com/jbhuang0604/status/1509033327981965313)
 - [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
+- [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
