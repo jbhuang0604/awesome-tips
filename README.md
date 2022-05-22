@@ -34,6 +34,7 @@ A curated list of tips on various topics.
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 - [How How to Ask for a Letter of Recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
+- [How to Survive the First Year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 
 ### Productivity
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
