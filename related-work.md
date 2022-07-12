@@ -8,7 +8,7 @@ But HOW? Check the thread!
 
 ## Divide and conquer
 
-No one likes to read 1-2 pages full of texts. Identify a couple of important “topics” relevant to your research. Add paragraph titles (\paragraph{}) so that it’s easy to navigate.
+No one likes to read 1-2 pages full of texts. Identify a couple of important “topics” relevant to your research. Add paragraph titles (`\paragraph{}`) so that it’s easy to navigate.
 
 ## Topic
 
@@ -22,25 +22,25 @@ Describe what the problem is, why is it challenging, and what people have done i
 
 ## Avoid laundry list
 
-Organizing and writing a topic as a clear trajectory is not easy. So instead of learning what to write, it’s often helpful learning what NOT to write.
+Organizing and writing a topic as a clear trajectory is not easy. So instead of learning what to write, it’s often helpful to learn what NOT to write.
 
 No “authors A did blah blah. Author B did blah blah. Author C”. Focus on the work, not the people.
 
 ## Don’t use citations as nouns
 
-Your sentences should still be complete and correct even if you  remove all the parenthetical citations.
+Your sentences should still be complete and correct even if you remove all the parenthetical citations.
 
 ## Don’t just describe, RELATE it
 
 In each topic, articulate the relationship between prior work and yours. Ex:
 
-Our work is similar as we also …
-Our work differs in …
-Unlike/in contrast to …, we …
+> Our work is similar as we also …
+> Our work differs in …
+> Unlike/in contrast to …, we …
 
 ## Identifying the key differences
 
-Try finding ONE key contrastive concept to separate your work from others. Highlight them with \emph. Ex:
+Try finding ONE key contrastive concept to separate your work from others. Highlight them with `\emph`. Ex:
 
 - Multiple -> Single
 - Content-agnostic -> Content-aware
