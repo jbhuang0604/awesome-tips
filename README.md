@@ -8,6 +8,7 @@ A curated list of tips on various topics.
 - [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
 - [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
 - [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
+- [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
 
 ### Writing
 - [How to write papers that are easy to read?](paper-writing.md)
@@ -35,14 +36,14 @@ A curated list of tips on various topics.
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 - [How How to Ask for a Letter of Recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [How to Survive the First Year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+- [How to survive the first Year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 - [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
 ### Productivity
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 
-### Network
+### Networking
 - [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
 - [How to network in a virtual conference?](https://twitter.com/jbhuang0604/status/1446692346800873477)
 - [How to write good cold emails?](cold-emails.md)
