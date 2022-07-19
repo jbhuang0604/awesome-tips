@@ -17,13 +17,16 @@ A curated list of tips on various topics.
 - [How to write a good related work section?](related-work.md)
 - [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 
-### Communication
+### Presentation
+- [How to start a presentation? https://twitter.com/jbhuang0604/status/1548882661581754370]
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
+- [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
+- [How to organize your talk](https://twitter.com/jbhuang0604/status/1509033327981965313)
+
+### Communication
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
 - [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
-- [How to organize your talk](https://twitter.com/jbhuang0604/status/1509033327981965313)
 - [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
 - [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
 - [How to Set Up a Good Calendar Invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
