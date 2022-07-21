@@ -20,9 +20,9 @@ A curated list of tips on various topics.
 ### Presentation
 - [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
 - [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
+- [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
-- [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
-- [How to organize your talk](https://twitter.com/jbhuang0604/status/1509033327981965313)
+- [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
 
 ### Communication
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
