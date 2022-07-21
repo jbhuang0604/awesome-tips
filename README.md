@@ -18,7 +18,7 @@ A curated list of tips on various topics.
 - [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 
 ### Presentation
-- [How to start a presentation?] (https://twitter.com/jbhuang0604/status/1548882661581754370)
+- [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
 - [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [How to present a line plot](https://twitter.com/jbhuang0604/status/1506101759911116809)
