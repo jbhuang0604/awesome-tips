@@ -28,7 +28,7 @@ A curated list of tips on various topics.
 ### Communication
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
 - [How to ask research questions?](https://twitter.com/jbhuang0604/status/1472808608874352641)
-- [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
 - [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
 - [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
 - [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
