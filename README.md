@@ -20,6 +20,7 @@ A curated list of tips on various topics.
 ### Presentation
 - [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
 - [How to end a presentation?](https://twitter.com/jbhuang0604/status/1549959041908150275)
+- [How to handle questions in a presentation?](https://twitter.com/jbhuang0604/status/1553583984948531205)
 - [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
@@ -30,7 +31,7 @@ A curated list of tips on various topics.
 - [How to make a research poster](https://twitter.com/jbhuang0604/status/1438948793718804486)
 - [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
 - [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
-- [How to Set Up a Good Calendar Invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
+- [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
@@ -39,8 +40,8 @@ A curated list of tips on various topics.
 - [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
-- [How How to Ask for a Letter of Recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
-- [How to survive the first Year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+- [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
+- [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
 - [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 
 ### Productivity
