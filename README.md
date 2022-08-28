@@ -9,6 +9,7 @@ A curated list of tips on various topics.
 - [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
 - [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
 - [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
+- [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 
 ### Writing
 - [How to write papers that are easy to read?](paper-writing.md)
