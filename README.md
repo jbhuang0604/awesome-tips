@@ -37,6 +37,7 @@ A curated list of tips on various topics.
 - [How to improve asynchronous communication?](https://twitter.com/jbhuang0604/status/1515912622721355781)
 - [How to communicate clearly?](https://twitter.com/jbhuang0604/status/1520615196498214913)
 - [How to set up a good calendar invite?](https://twitter.com/jbhuang0604/status/1528566229505650691)
+- [How to get remembered?](https://twitter.com/jbhuang0604/status/1611588521440976898)
 
 ### Career
 - [How to prepare your Curriculum Vitae?](https://twitter.com/jbhuang0604/status/1433651068282540033)
