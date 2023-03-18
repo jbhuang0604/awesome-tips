@@ -52,6 +52,7 @@ A curated list of tips on various topics.
 - [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 - [How to email faculty as a prospective student?](https://twitter.com/jbhuang0604/status/1592024757062750209)
 - [Fantastic Faculty Jobs and How to Get Them?](https://www.dropbox.com/s/avkflol8mx99c7e/2022_12_05%20Academic%20Job%20workshop.pptx?dl=0)
+- [How to find a good PhD advisor?](https://twitter.com/jbhuang0604/status/1636597849130450948)
 
 ### Productivity
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
