@@ -14,11 +14,12 @@ A curated list of tips on various topics.
 - [The Road to Becoming an AI Ninja (Guest lecture at Harvard University)](https://www.dropbox.com/s/2s0wt4uxv9vk3gb/2022_11_18%20Guest_lecture_Harvard.pptx?dl=0)
 
 ### Writing
+- [How to write the Introduction?](https://twitter.com/jbhuang0604/status/1638029709073166336)
+- [How to write the Related Work?](related-work.md)
 - [How to write papers that are easy to read?](paper-writing.md)
 - [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
 - [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
 - [How to create a good table?](https://twitter.com/jbhuang0604/status/1626372600824844289)
-- [How to write a good related work section?](related-work.md)
 - [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 - [How to prepare supplementary material?](https://twitter.com/jbhuang0604/status/1592563395936817154)
 
