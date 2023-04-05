@@ -60,6 +60,7 @@ A curated list of tips on various topics.
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How to be productive?](https://twitter.com/jbhuang0604/status/1430003911037947904)
 - [How to develop a productive routine?](https://twitter.com/jbhuang0604/status/1570131220499148800)
+- [How to multitask?](https://twitter.com/jbhuang0604/status/1643454248229785604)
 
 ### Networking
 - [How to network in a in-person conference?](https://twitter.com/jbhuang0604/status/1517352789780934656)
