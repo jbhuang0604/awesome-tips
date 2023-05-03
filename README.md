@@ -11,6 +11,7 @@ A curated list of tips on various topics.
 - [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
 - [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
 - [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
+- [How to meet with your advisor?](https://twitter.com/jbhuang0604/status/1653614931202195458)
 - [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 - [The Road to Becoming an AI Ninja (guest lecture at Harvard University)](https://www.dropbox.com/s/2s0wt4uxv9vk3gb/2022_11_18%20Guest_lecture_Harvard.pptx?dl=0)
 
