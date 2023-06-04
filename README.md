@@ -1,19 +1,23 @@
 # Awesome Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of tips on various topics. 
-### Research
+### Doing Research
 - [How to make steady research progress?](steady-progress.md)
-- [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
-- [How to work with my mentors effectively?](working-with-mentor.md)
 - [How to do experiments?](https://twitter.com/jbhuang0604/status/1647098218172252160)
 - [How to decide what to work on?](https://twitter.com/jbhuang0604/status/1628521223838654464)
 - [How to keep track of literature?](https://twitter.com/jbhuang0604/status/1426039195542360070)
 - [How to come up with research ideas?](https://twitter.com/jbhuang0604/status/1423499757591400448)
 - [How to cope with paper rejection?](https://twitter.com/jbhuang0604/status/1443248831102136333)
-- [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
-- [How to meet with your advisor?](https://twitter.com/jbhuang0604/status/1653614931202195458)
-- [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
 - [The Road to Becoming an AI Ninja (guest lecture at Harvard University)](https://www.dropbox.com/s/2s0wt4uxv9vk3gb/2022_11_18%20Guest_lecture_Harvard.pptx?dl=0)
+
+### Working with your mentors
+- [How to share progress with your mentors/collaborators?](https://twitter.com/jbhuang0604/status/1453378296608137229)
+- [How to meet with your advisor?](https://twitter.com/jbhuang0604/status/1653614931202195458)
+- [How to work with my mentors effectively?](working-with-mentor.md)
+- [How to work with your advisor?](https://twitter.com/jbhuang0604/status/1546361365778022400)
+- [How to work with a busy advisor?](https://twitter.com/jbhuang0604/status/1665183152887808000)
+- [How to work with your senior advisor?](https://twitter.com/jbhuang0604/status/1563740402657775618)
+
 
 ### Writing
 - [How to write the Introduction?](https://twitter.com/jbhuang0604/status/1638029709073166336)
