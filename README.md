@@ -25,6 +25,7 @@ A curated list of tips on various topics.
 - [How to write papers that are easy to read?](paper-writing.md)
 - [How to write a paper that looks like a good one?](https://twitter.com/jbhuang0604/status/1437443017510621185)
 - [How to write clear and concise sentences?](https://twitter.com/jbhuang0604/status/1437931004451250176)
+- [How to draw an overview figure?](https://twitter.com/jbhuang0604/status/1665738070002483201)
 - [How to create a good table?](https://twitter.com/jbhuang0604/status/1626372600824844289)
 - [How to write math in a paper?](https://twitter.com/jbhuang0604/status/1643118681960923137)
 - [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
