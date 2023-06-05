@@ -37,6 +37,8 @@ A curated list of tips on various topics.
 - [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
+- [How to make a research posger?](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [How to present a poster at a conference](https://twitter.com/jbhuang0604/status/1518097856325996545)
 
 ### Communication
 - [How to disseminate your research?](https://twitter.com/jbhuang0604/status/1379448897823776769)
