@@ -30,6 +30,7 @@ A curated list of tips on various topics.
 - [How to write math in a paper?](https://twitter.com/jbhuang0604/status/1643118681960923137)
 - [How to prepare journal response letter?](https://twitter.com/jbhuang0604/status/1387148974377865219)
 - [How to prepare supplementary material?](https://twitter.com/jbhuang0604/status/1592563395936817154)
+- [How to cite papers?](https://twitter.com/jbhuang0604/status/1672342931473137664)
 
 ### Presentation
 - [How to start a presentation?](https://twitter.com/jbhuang0604/status/1548882661581754370)
