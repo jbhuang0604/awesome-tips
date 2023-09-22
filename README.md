@@ -66,6 +66,8 @@ A curated list of tips on various topics.
 - [Fantastic Faculty Jobs and How to Get Them?](https://www.dropbox.com/s/avkflol8mx99c7e/2022_12_05%20Academic%20Job%20workshop.pptx?dl=0)
 - [How to find a good PhD advisor?](https://twitter.com/jbhuang0604/status/1636597849130450948)
 - [How to write an email to a potential advisor?](https://twitter.com/jbhuang0604/status/1694789023175266553)
+- [How to invite yourself to give a talk?](https://twitter.com/jbhuang0604/status/1704969868301201723)
+- [How to get people to know you?](https://twitter.com/jbhuang0604/status/1704714420989862299)
 
 ### Productivity
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
