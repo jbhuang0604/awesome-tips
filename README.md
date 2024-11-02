@@ -63,6 +63,7 @@ A curated list of tips on various topics.
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 - [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
 - [How to survive the first year of PhD?](https://twitter.com/jbhuang0604/status/1523505108318924802)
+- [How to prepare a phone interview for faculty positions?](https://x.com/jbhuang0604/status/1852505510035026086)
 - [How to get a tenure-track faculty job?](https://twitter.com/jbhuang0604/status/1533302893364789257)
 - [How to email faculty as a prospective student?](https://twitter.com/jbhuang0604/status/1592024757062750209)
 - [Fantastic Faculty Jobs and How to Get Them?](https://www.dropbox.com/s/avkflol8mx99c7e/2022_12_05%20Academic%20Job%20workshop.pptx?dl=0)
