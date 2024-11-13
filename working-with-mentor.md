@@ -11,7 +11,7 @@ How? Check out the thread 🧵
 
 ## Frequent update
 
-Setting up weekly meeting with your mentors is great. But, do NOT stay silent during the week. Nothing is more frustrating to learn that the student got stuck 20 mins after the meeting last week in a meeting. 
+Setting up weekly meetings with your mentors is great. But, do NOT stay silent during the week. Nothing is more frustrating to learn that the student got stuck 20 mins after the meeting last week in a meeting. 
 
 Your mentors want you to succeed! Help them do so!
 
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/987204/127599835-97e0f52b-2703-4100-b7
 
 Before: send results/agenda whenever they are available. Give your mentors time to digest them.
 
-In the meeting: progress update. Reserve the last 10 mins to discuss next steps.
+In the meeting: progress update. Reserve the last 10 mins to discuss the next steps.
 
 After: Send a summary and an actionable plan to keep everyone on the same page.
 
