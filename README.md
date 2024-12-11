@@ -44,6 +44,7 @@ A curated list of tips on various topics.
 - [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
 - [How to present a poster at a conference?](https://twitter.com/jbhuang0604/status/1518097856325996545)
 - [How to design your presentation?](https://x.com/jbhuang0604/status/1865199644415832424)
+- [How to avoid common mistakes in your presentation?](https://x.com/jbhuang0604/status/1866987294894231756)
 
 ### Communication
 - [How to present your work via videos?](https://x.com/jbhuang0604/status/1752768310087737588)
