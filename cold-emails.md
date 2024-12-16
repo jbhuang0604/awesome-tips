@@ -56,7 +56,9 @@ https://user-images.githubusercontent.com/987204/127598163-446fa368-375b-4c97-a5
   
 This pitfall is quite common in inquiry emails from prospective students. Ex:
 
-"I am fascinated by your work <paper A> and <paper B>." where paper titles are of inconsistent font type/sizes. This almost surely indicates that you are sending massive emails.
+> I am fascinated by your work `<paper A>` and `<paper B>`.
+
+where paper titles are of inconsistent font type/sizes. This almost surely indicates that you are sending massive emails.
 
 https://user-images.githubusercontent.com/987204/127598224-54e9863b-442d-4de7-8efe-3db8b05b922e.mp4
 

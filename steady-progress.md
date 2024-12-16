@@ -33,7 +33,7 @@ Because you get to
 1) see final outcome early
 2) measure the performance upper bound
 3) focus on each task with perfect inputs without distraction
-4) figure what are needed to achieve the desire results.
+4) figure what is needed to achieve the desired results.
 
 https://user-images.githubusercontent.com/987204/127598869-d509e7cb-fd3d-4b00-8c98-f52ea6a0d9a8.mp4
 
@@ -51,7 +51,7 @@ Don't know where to start? Start with trying out baseline methods on your proble
 
 It helps identify limitations of the state-of-the-art. If they work perfectly well, why do you need to work on this problem? 
 
-Finding specific gap helps motivate your work.
+Finding specific gaps helps motivate your work.
 
 https://user-images.githubusercontent.com/987204/127598954-9b4d339c-8680-45ed-8eb6-2121420cf9e3.mp4
 

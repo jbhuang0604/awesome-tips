@@ -18,7 +18,7 @@ Don't ask people to match (a), (b), (c) ... with the descriptions in the figure 
 
 ## Figure caption
 
-Use "self-contained" caption. It's annoying to dig into the texts and match them to the figures. Ain't nobody got time for that! ⌚️
+Use "self-contained" captions. It's annoying to dig into the texts and match them to the figures. Ain't nobody got time for that! ⌚️
 
 Also, add a figure "caption title" (in bold fonts). It allows readers to navigate through figures quickly.
 
@@ -40,7 +40,7 @@ I found that many of my students love to use "which" in their sentences. I hate 
 
 ## Respectively
 
-It's hard to parse which corresponds to which in the sentence that ends with "respectively" (have to solve a long-range correspondence problem). Break them them so that one sentence talks about one thing.
+It's hard to parse which corresponds to which in the sentence that ends with "respectively" (have to solve a long-range correspondence problem). Break them so that one sentence talks about one thing.
 
 ![Figures](https://pbs.twimg.com/media/EcNvqUwXkAAfDu3?format=jpg&name=medium)
 
@@ -58,7 +58,7 @@ When using notations in the sentences, mention their "names" as well. The reader
 
 ## Connect figures with equations, notations, and sections
 
-I view the overview figure in a paper a centralized hub that connects all the important equations, notations, and sections in one place. This makes it easy for people to understand how everything fits together.
+I view the overview figure in a paper as a centralized hub that connects all the important equations, notations, and sections in one place. This makes it easy for people to understand how everything fits together.
 
 ![Figures](https://pbs.twimg.com/media/EcQh1LxXYAYCixH?format=jpg&name=medium)
 
@@ -80,9 +80,11 @@ Don't ask readers to figure out the grouping (b-c) and (d-e) in the caption when
 
 How to create underbracket? Ex:
 
+```
 $\underbracket[1pt][2.0mm]{\hspace{\FIGWIDTH}}_%    
     {\substack{\vspace{-2.0mm}\\
 \colorbox{white}{(a) Input}}}$
+```
 
 ![Figures](https://pbs.twimg.com/media/Epk2z1nW8AErvCC?format=jpg&name=medium)
 
