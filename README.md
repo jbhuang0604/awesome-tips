@@ -62,7 +62,7 @@ A curated list of tips on various topics.
 - [How to find a research internship?](https://twitter.com/jbhuang0604/status/1438337355031719941)
 - [How to intern?](https://twitter.com/jbhuang0604/status/1505734716657438724)
 - [How to find research opportunities?](https://twitter.com/jbhuang0604/status/1627191986091438080)
-- [How to prepare graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
+- [How to prepare for a graduate school interview?](https://twitter.com/jbhuang0604/status/1482238901595127808)
 - [How to improve graduate application after submission?](https://twitter.com/jbhuang0604/status/1472410988322377732)
 - [How do I maximize my chance for PhD programs?](https://twitter.com/jbhuang0604/status/1425204888301150208)
 - [How to ask for a letter of recommendation?](https://twitter.com/jbhuang0604/status/1522072974068703233)
@@ -75,6 +75,7 @@ A curated list of tips on various topics.
 - [How to write an email to a potential advisor?](https://twitter.com/jbhuang0604/status/1694789023175266553)
 - [How to invite yourself to give a talk?](https://twitter.com/jbhuang0604/status/1704969868301201723)
 - [How to get people to know you?](https://twitter.com/jbhuang0604/status/1704714420989862299)
+- [How to schedule your defense?](https://x.com/jbhuang0604/status/1896673265378308497)
 
 ### Productivity
 - [How to manage your time?](https://twitter.com/jbhuang0604/status/1430003911037947904)
