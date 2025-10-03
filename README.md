@@ -41,10 +41,13 @@ A curated list of tips on various topics.
 - [How to present a line plot?](https://twitter.com/jbhuang0604/status/1506101759911116809)
 - [How to prepare your presentation slides?](https://twitter.com/jbhuang0604/status/1397058827405742085)
 - [How to organize your talk?](https://twitter.com/jbhuang0604/status/1509033327981965313)
-- [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
-- [How to present a poster at a conference?](https://twitter.com/jbhuang0604/status/1518097856325996545)
 - [How to design your presentation?](https://x.com/jbhuang0604/status/1865199644415832424)
 - [How to avoid common mistakes in your presentation?](https://x.com/jbhuang0604/status/1866987294894231756)
+
+### Poster Presentation
+- [How to make a research poster?](https://twitter.com/jbhuang0604/status/1438948793718804486)
+- [How to present a poster at a conference?](https://twitter.com/jbhuang0604/status/1518097856325996545)
+- [How to revise an academic poster?](https://x.com/jbhuang0604/status/1974198882906325054)
 
 ### Communication
 - [How to present your work via videos?](https://x.com/jbhuang0604/status/1752768310087737588)
